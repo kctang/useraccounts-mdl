@@ -80,6 +80,11 @@
     color: #de3226
 }
 
+.at-form {
+    text-align: center;
+}
+
 .full-page-at-form {
     max-width: 400px;
+    margin: 0 auto;
 }
